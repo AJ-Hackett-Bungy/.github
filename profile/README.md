@@ -32,5 +32,4 @@ Join us and become part of the legacy of thrill-seekers and adventurers!
 
 Experience the thrill and let us capture the moment!
 
----
 # LIVE MORE, FEAR LESS
