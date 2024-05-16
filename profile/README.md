@@ -33,5 +33,4 @@ Join us and become part of the legacy of thrill-seekers and adventurers!
 Experience the thrill and let us capture the moment!
 
 ---
-
-**Thank you for visiting our GitHub page! Follow us for updates and exciting new adventures.**
+# LIVE MORE, FEAR LESS
