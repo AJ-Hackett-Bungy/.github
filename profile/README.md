@@ -1,4 +1,4 @@
-# <img src="https://github.com/AJ-Hackett-Bungy/.github/assets/2846782/64aeb4f8-cf2a-4db2-92aa-e19f713e5aa0" alt="AJ Hackett Bungy" style="width:100%;"/>
+# <img src="https://github.com/AJ-Hackett-Bungy/.github/assets/2846782/6b3707ac-f46a-441f-997e-eb8f195a7207" alt="AJ Hackett Bungy" style="width:100%;"/>
 
 # Welcome to AJ Hackett Bungy!
 
@@ -33,3 +33,4 @@ Join us and become part of the legacy of thrill-seekers and adventurers!
 Experience the thrill and let us capture the moment!
 
 # LIVE MORE, FEAR LESS
+# <img src="https://github.com/AJ-Hackett-Bungy/.github/assets/2846782/8c67c3d9-867c-4ef3-8849-5e24392a92a4" alt="Bungy" style="width:100%;"/>
