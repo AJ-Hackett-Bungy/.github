@@ -1,7 +1,5 @@
-# <img src="https://github.com/AJ-Hackett-Bungy/.github/assets/2846782/6b3707ac-f46a-441f-997e-eb8f195a7207" alt="AJ Hackett Bungy" style="width:100%;"/>
-
-
 <div align="center">
+<img src="https://github.com/AJ-Hackett-Bungy/.github/assets/2846782/6b3707ac-f46a-441f-997e-eb8f195a7207" alt="AJ Hackett Bungy" style="width:100%;"/>
 
 # Welcome to AJ Hackett Bungy!
 
@@ -22,7 +20,7 @@
 - **Bungy Jumping**: Dive from the world’s most iconic bungy locations.
 - **Nevis Catapult**: Experience the highest bungy catapult in the world.
 - **SkyWalk & SkyJump**: Conquer your fear of heights in Auckland.
-- **ZipRider**: Fly down our zip lines for a thrilling ride.
+- **Zip Ride**: Fly down our zip lines for a thrilling ride.
 
 Join us and become part of the legacy of thrill-seekers and adventurers!
 
