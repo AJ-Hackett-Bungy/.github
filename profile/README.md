@@ -5,7 +5,7 @@
 
 ![Adrenaline Level](https://img.shields.io/badge/Adrenaline-11%2F10-ff0055?style=for-the-badge)
 ![World First Since 1988](https://img.shields.io/badge/World%20First-1988-111111?style=for-the-badge)
-![EpicShot Included](https://img.shields.io/badge/EpicShot-Capture%20Everything-00a8ff?style=for-the-badge)
+![EpicShot Included](https://img.shields.io/badge/EpicShot-RELIVE%20IT%20WITH%20EPICSHOT-00a8ff?style=for-the-badge)
 
 ### 🚀 Live More, Fear Less
 **Original. Iconic. Obsessed with the perfect free fall.**
@@ -20,18 +20,18 @@
 - **Bungy Jumping**: Dive from the world’s most iconic bungy locations.
 - **Nevis Catapult**: Experience the highest bungy catapult in the world.
 - **SkyWalk & SkyJump**: Conquer your fear of heights in Auckland.
-- **Zip Ride**: Fly down our zip lines for a thrilling ride.
+- **ZipRider**: Fly down our zip lines for a thrilling ride.
 
 Join us and become part of the legacy of thrill-seekers and adventurers!
 
 ---
-
+<div align="center">
 <img src="https://epicshot.co.nz/images/interface/epic-logo.svg" alt="EpicShot" style="width:30%;"/>
 
 ## RELIVE IT WITH EPICSHOT
+</div>
 
 **EpicShot** offers photo and video capture for tourism businesses, so customers can relive their experience again and again. 
-
 ### EpicShot Offers
 - Automated photo and video capture
 - Advanced triggers to capture the perfect shot
