@@ -1,6 +1,20 @@
 # <img src="https://github.com/AJ-Hackett-Bungy/.github/assets/2846782/6b3707ac-f46a-441f-997e-eb8f195a7207" alt="AJ Hackett Bungy" style="width:100%;"/>
 
+
+<div align="center">
+
 # Welcome to AJ Hackett Bungy!
+
+![Adrenaline Level](https://img.shields.io/badge/Adrenaline-11%2F10-ff0055?style=for-the-badge)
+![World First Since 1988](https://img.shields.io/badge/World%20First-1988-111111?style=for-the-badge)
+![EpicShot Included](https://img.shields.io/badge/EpicShot-Capture%20Everything-00a8ff?style=for-the-badge)
+
+### 🚀 Live More, Fear Less
+**Original. Iconic. Obsessed with the perfect free fall.**
+
+<a href="https://www.bungy.co.nz/" target="_blank">Book a Jump</a> · <a href="https://www.bungy.co.nz/groups" target="_blank">Plan a Group Mission</a> · <a href="https://www.youtube.com/@AJHackettBungyNewZealand" target="_blank">Watch the Hype Reel</a>
+
+</div>
 
 **AJ Hackett Bungy** is synonymous with adventure and thrill. We pioneered the bungy jump movement and continue to push the limits of adventure sports. Whether you're jumping off the iconic Kawarau Bridge, soaring through the skies on the Nevis Swing, or experiencing the ultimate adrenaline rush with our various adventure activities, AJ Hackett Bungy promises an unforgettable experience.
 
